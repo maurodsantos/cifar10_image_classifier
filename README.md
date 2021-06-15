@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree
-# Supervised Learning
-## Project: Finding Donors for CharityML
+# Deep learning with Pytorch
+## Project: CIFAR-10 Image Classifier
 
 ### Install
 
